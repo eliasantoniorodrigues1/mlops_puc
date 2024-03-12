@@ -1,7 +1,3 @@
-
-Página
-1
-de 2
 name: Train-Pipeline
 on:
 push:
